@@ -22,6 +22,20 @@
  * ]
  */
 function minesweeper(/* matrix */) {
+  // let temp = new Array(matrix.length);
+  // for (let i = 0; i < temp.length; i++){
+  //   temp[i] = new Array(matrix[0].length);
+  // }
+  //
+  //
+  // for (let i=0; i<matrix.length; i++){
+  //   for (let j=0; j<matrix[i].length; j++){
+  //     temp[i+1][j+1]
+  //     }
+  //   }
+  // }
+  // return temp;
+
   throw new Error('Not implemented');
 }
 
